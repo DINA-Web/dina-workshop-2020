@@ -2,7 +2,11 @@
 DINA Virtual Workshop: March 30th - April 2nd 2020
 
 ## Agenda
-### Day 1 - Monday March 30th 
+
+* [Day 1 - Monday March 30](#day-1---monday-March-30)
+* [Day 2 - Tuesday March 31](#day-2---tuesday-march-31)
+
+### Day 1 - Monday March 30
 Session 1- Welcome + Show and Tell
 Session Moderators: Satpal + Falko
 Session note taker: 
