@@ -6,6 +6,7 @@ DINA Virtual Workshop: March 30th - April 2nd 2020
 * [Day 1 - Monday March 30](#day-1---monday-March-30)
 * [Day 2 - Tuesday March 31](#day-2---tuesday-march-31)
 * [Day 3 - Wednesday April 1](#day-3---wednesday-april-1)
+* [Day 4 - Thursday April 2](#day-4---thursday-april-2)
 
 ### Day 1 - Monday March 30
 Session 1- Welcome + Show and Tell
@@ -151,3 +152,47 @@ Roadmap continued….
 
 12:30pm END
 
+### Day 4 - Thursday April 2
+
+Session 7 - How to work collaboratively 
+Session Moderators: Satpal + Falko + Glen + Jens
+Session note taker: 
+
+8:30am - 9:00am
+
+Questions from previous day about roadmap
+
+9:00am - 10:00am
+
+* Satpal - AAFC Development team structure and project management structure
+* Falco - What is the Berlin Development team and project management structure?
+* Structure to communication 
+* How to deal with time zone differences
+* Tooling: Slack? Mattermost? 
+* Github Best practices...
+
+10:00am - 10:15am
+
+BREAK
+
+10:15am - 11:15am    
+
+* Satpal How do we achieve success?
+  * SCRUM framework sprints, etc...
+  * Agree on: Definition of Done with other DEV
+  
+Sprint Work:
+
+* Choosing who works on what...
+  
+11:15am - 11:30am
+
+BREAK 
+
+11:30am - 12:30pm
+
+* Falco + James Development agreement : for collaborative development on collection management module?
+* Talk about how the MOU contracts (Collaborative Agreement/Development agreement) play out…
+* Satpal  / James / Falko / Laith Assemble post meeting material for management
+
+12:30pm END
