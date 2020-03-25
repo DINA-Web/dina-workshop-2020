@@ -5,6 +5,7 @@ DINA Virtual Workshop: March 30th - April 2nd 2020
 
 * [Day 1 - Monday March 30](#day-1---monday-March-30)
 * [Day 2 - Tuesday March 31](#day-2---tuesday-march-31)
+* [Day 3 - Wednesday April 1](#day-3---wednesday-april-1)
 
 ### Day 1 - Monday March 30
 Session 1- Welcome + Show and Tell
@@ -97,6 +98,55 @@ Session note taker:
 Christian - Data Models
 * Object store data model is fairly mature
 * Collection Management Model 
+
+12:30pm END
+
+### Day 3 - Wednesday April 1
+
+Session 5 - The Migration Path(s)
+Session Moderators: David 
+Session note taker: 
+
+8:30am - 9:00am
+* Christian - To Follow up Technical question from previous day 
+* General questions from the group
+9:00am - 10:00am
+David - AAFC Migration path(s) 
+* Data Quality considerations
+* Specify 6, 7
+* Spreadsheets, Access, etc…
+* Generic data model
+* Home for legacy data, serialized
+* Temporary homes for migrated data elements when final resting places (with subsequent linking) do not yet exist
+* Multiple, sequential or asynchronous migrations of parts of sources into parts of destinations look closer at fields to track digitization efforts (who did what when?)
+
+10:00am - 10:15am
+
+BREAK
+
+10:15am - 10:15am
+
+Session 6 - The Roadmap
+Session Moderators: Satpal + Falko + Laith + James
+Session note taker:
+
+Satpal - The AAFC Roadmap
+* Release 1, 2, 3 
+* Gaps
+
+Falco - The MFN Roadmap
+
+James - Alignment and gaps compared to AAFC
+
+Potential break out group to continue with roadmap discussion until end of day
+
+11:15am - 11:30am
+
+BREAK
+
+11:30am - 12:30pm
+
+Roadmap continued….
 
 12:30pm END
 
