@@ -86,7 +86,7 @@ BREAK
 
 Christian - AAFC gives guided tour through code bases (continued)
 * Explain the API spec automatic generation 
-* API Guidelines :https://github.com/DINA-Web/guidelines/blob/master/DINA-Web-API-Guidelines.md
+* Review and path forward of the [API Guidelines](https://github.com/DINA-Web/guidelines/blob/master/DINA-Web-API-Guidelines.md)
 
 11:15am - 11:30am
 
