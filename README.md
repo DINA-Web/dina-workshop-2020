@@ -103,13 +103,14 @@ Christian - Data Models
 
 ### Day 3 - Wednesday April 1
 
+8:30am - 9:00am
+* Christian - To Follow up Technical question from previous day 
+* General questions from the group
+
 Session 5 - The Migration Path(s)
 Session Moderators: David 
 Session note taker: 
 
-8:30am - 9:00am
-* Christian - To Follow up Technical question from previous day 
-* General questions from the group
 9:00am - 10:00am
 David - AAFC Migration path(s) 
 * Data Quality considerations
