@@ -8,6 +8,8 @@ DINA Virtual Workshop: March 30th - April 2nd 2020
 * [Day 3 - Wednesday April 1](#day-3---wednesday-april-1)
 * [Day 4 - Thursday April 2](#day-4---thursday-april-2)
 
+*Time is in Eastern Daylight Time (EDT)*
+
 ### Day 1 - Monday March 30
 Session 1- Welcome + Show and Tell
 Session Moderators: Satpal + Falko
