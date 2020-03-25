@@ -45,4 +45,54 @@ BREAK
 * Reach out to Matt for a presentation???
 * Satpal - AAFC DINA-web. Github changes
 
+12:30pm
+END
+
+### Day 2 - Tuesday March 31 
+Session 2 - The DINA-AAFC Design Process
+Session Moderators: Satpal
+Session note taker:
+
+Session3 - The DINA-AAFC Technical Architecture
+Session Moderators: Christian + Glen + Falko
+Session note taker: 
+
+8:30am - 9:00am
+
+Satpal - DINA-AAFC Design Process
+Christian/Mat/Jonathan??? - Code review process.  CI/CD??
+
+9:00am - 10:00am
+
+Christian - DINA-AAFC Technical Architecture
+* Lessons learned from previous collaboration
+* AAFC gives guided tour through code bases (frontend and backend)
+* Get the AAFC development environment working for Berlin
+* DEVS spend some time on UI and how to re-use of the AAFC UI, the different layers to it
+
+10:00am - 10:15am
+
+BREAK
+
+10:15am - 11:15am
+
+Christian - AAFC gives guided tour through code bases (continued)
+* Explain the API spec automatic generation 
+* API Guidelines :https://github.com/DINA-Web/guidelines/blob/master/DINA-Web-API-Guidelines.md
+
+11:15am - 11:30am
+
+BREAK
+
+Session 4 The Data Models:
+Session Moderators: Christian + Falko
+Session note taker: 
+
+11:30am - 12:30pm
+
+Christian - Data Models
+* Object store data model is fairly mature
+* Collection Management Model 
+
 12:30pm END
+
