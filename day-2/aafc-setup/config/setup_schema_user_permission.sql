@@ -1,4 +1,4 @@
--- How to use it: awk 'FNR==NR{A[$1]=$2;next}{for(i in A)sub("\"i,A[i], $0)}1' env.env setup_schema_user_permission.sql
+-- How to use it: awk 'FNR==NR{A[$1]=$2;next}{for(i in A)sub("\\"i,A[i], $0)}1' env.env setup_schema_user_permission.sql
 -- env.env file format should be like $DB_NAME seqdb_test
 -- Create Schema and Revoke privileges for PUBLIC user
 REVOKE CONNECT ON DATABASE $DB_NAME FROM PUBLIC;
