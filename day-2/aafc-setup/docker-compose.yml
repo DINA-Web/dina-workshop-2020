@@ -7,7 +7,7 @@ services:
       POSTGRES_USER: ${DB_USER_NAME}
       POSTGRES_PASSWORD: ${DB_PASSWORD}
     volumes:
-      - ./config/object_store_setup_schema_user_permission.sql:/docker-entrypoint-initdb.d/1-init-schema.sql
+      - ./config/objectstore_sampledb.sql:/docker-entrypoint-initdb.d/1-objectstore_sampledb.sql
 
   minio:
     image: minio/minio
