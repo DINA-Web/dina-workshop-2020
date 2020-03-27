@@ -2,7 +2,7 @@ Tuesday March 31 2020
 
 # Session 3 DINA-AAFC Technical Architecture
 
-## Lessons learned from previous dina years
+## Lessons learned from previous DINA years
 
 * Separate modules vs Collaborative development on the same module
 * Importance of API definition and process around it
