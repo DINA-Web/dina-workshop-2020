@@ -47,7 +47,7 @@ services:
       POSTGRES_USER: ${DB_USER_NAME}
       POSTGRES_PASSWORD: ${DB_PASSWORD}
     volumes:
-      - ./config/seqdb_setup_schema_user_permission.sql:/docker-entrypoint-initdb.d/1-init-schema.sql
+      - ./config/seqdb_sampledb.sql:/docker-entrypoint-initdb.d/1-seqdb_sampledb.sql
 
   seqdb-api:
     image: "aafcbicoe/seqdb-api:1.4.dev"
