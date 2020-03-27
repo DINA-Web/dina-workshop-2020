@@ -37,6 +37,7 @@ Tuesday March 31 2020
 ## API Guidelines
 
 * Current guide: https://github.com/DINA-Web/guidelines/blob/master/DINA-Web-API-Guidelines.md
+* GitHub issues with [workshop-2020 label](https://github.com/DINA-Web/guidelines/issues?q=is%3Aissue+is%3Aopen+label%3Aworkshop-2020)
 * Discussion
   * UUID as identifiers
   * Soft delete
