@@ -1,9 +1,11 @@
 # dina-workshop-2020
 DINA Virtual Workshop: March 30th - April 2nd 2020
 
-## Google Drive Folder 
+## Videoconference
 
-https://drive.google.com/drive/folders/1XI-enjvSllKyKnDw86u1yS1PpSDvYa2D?usp=sharing
+Details will be sent by email. Please use your real name and add your affiliation so we can easily identify people and it will help taking notes.
+
+Primary system: **Zoom**, backup **Adobe Connect**.
 
 ## Agenda
 
@@ -60,7 +62,7 @@ BREAK
 12:30pm
 END
 
-### Day 2 - Tuesday March 31 
+### Day 2 - Tuesday March 31
 Session 2 - The DINA-AAFC Design Process
 Session Moderators: Satpal
 Session note taker:
