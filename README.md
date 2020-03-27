@@ -3,7 +3,7 @@ DINA Virtual Workshop: March 30th - April 2nd 2020
 
 ## Google Drive Folder 
 
-https://drive.google.com/drive/folders/1XI-enjvSllKyKnDw86u1yS1PpSDvYa2D?usp=sharing 
+https://drive.google.com/drive/folders/1XI-enjvSllKyKnDw86u1yS1PpSDvYa2D?usp=sharing
 
 ## Agenda
 
