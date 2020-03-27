@@ -55,7 +55,7 @@ BREAK
 
 11:30am - 12:30pm
 * SWE - Fredrik’s SeqDB Deck
-* James/ Falko? The landscape and other projects - ELVIS, DiSSCo, ALA, GBIF, etc…
+* James/ Falko - The landscape and other projects - ELVIS, DiSSCo, ALA, GBIF, etc…
 * Matt from UK will present (10-15mins)
 * Satpal - AAFC DINA-web. Github changes
 
@@ -74,11 +74,16 @@ Session note taker:
 8:30am - 9:00am
 
 Satpal - DINA-AAFC Design Process
-Christian/Mat/Jonathan??? - Code review process.  CI/CD??
+
+Christian/Mat/Jonathan - Code review process.  CI/CD??
 
 9:00am - 10:00am
 
 Christian - DINA-AAFC Technical Architecture
+
+
+[Session 3 DINA-AAFC Technical Architecture](day-2/Session_3_DINA-AAFC_Technical_Architecture.md)
+
 * Lessons learned from previous collaboration
 * AAFC gives guided tour through code bases (frontend and backend)
 * Get the AAFC development environment working for Berlin
@@ -105,8 +110,8 @@ Session note taker:
 11:30am - 12:30pm
 
 Christian - Data Models
-* Object store data model is fairly mature
-* Collection Management Model 
+* Object Store data model
+* Collection Management data model 
 
 12:30pm END
 
