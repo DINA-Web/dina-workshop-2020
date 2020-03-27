@@ -10,8 +10,14 @@ Tuesday March 31 2020
 
 ## AAFC guided tour through code bases
 
+* Concepts
+  * Microservices
+  * Unified interface
 * Object-Store API: https://github.com/AAFC-BICoE/object-store-api
+* SeqDB API : https://github.com/AAFC-BICoE/seqdb-api
+  * overlap with current SeqDB app and inherited complexity
 * DINA UI: https://github.com/AAFC-BICoE/dina-ui/tree/dev
+  * project technologies and structure
 
 ## Get the AAFC development environment working for Berlin
 
@@ -24,10 +30,17 @@ Tuesday March 31 2020
 
 ## Automatic API documentation generation from JSON-Schema
 
-* https://github.com/AAFC-BICoE/json-schema2adoc/tree/dev
+* ObjectStore JSON Schmema:
+* JSON Schema to ASCII doc: https://github.com/AAFC-BICoE/json-schema2adoc/tree/dev
+* Result: https://dina-web.github.io/object-store-specs/
 
 ## API Guidelines
 
-* https://github.com/DINA-Web/guidelines/blob/master/DINA-Web-API-Guidelines.md
+* Current guide: https://github.com/DINA-Web/guidelines/blob/master/DINA-Web-API-Guidelines.md
+* Discussion
+  * UUID as identifiers
+  * Soft delete
+  * Differed referential integrity checks
+  * Global search
 
 
