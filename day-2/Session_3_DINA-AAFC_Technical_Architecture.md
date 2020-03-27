@@ -30,7 +30,7 @@ Tuesday March 31 2020
 
 ## Automatic API documentation generation from JSON-Schema
 
-* ObjectStore JSON Schmema:
+* ObjectStore JSON Schema: https://github.com/DINA-Web/object-store-specs/tree/json-schema
 * JSON Schema to ASCII doc: https://github.com/AAFC-BICoE/json-schema2adoc/tree/dev
 * Result: https://dina-web.github.io/object-store-specs/
 
@@ -43,5 +43,3 @@ Tuesday March 31 2020
   * Soft delete
   * Differed referential integrity checks
   * Global search
-
-
