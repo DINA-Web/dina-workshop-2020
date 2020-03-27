@@ -1,0 +1,15 @@
+# Configures Caddy (reverse proxy) to serve the app as static files and proxy
+# API urls to the API service.
+http://:8080
+
+root /www/html
+ext .html # Routes to static HTML files e.g. { URL /list } -> { File /list.html }
+proxy /api {$API_ADDRESS} {
+  # For demo purposes, automatically authenticate against the REST API as Admin:Admin
+  header_upstream Authorization "Basic QWRtaW46QWRtaW4="
+}
+# No home page for the demo, so just redirect to the workflow list:
+redir {
+  if {path} is /
+  / /workflow/list
+}

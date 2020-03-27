@@ -33,6 +33,13 @@ services:
       minio.accessKey: ${MINIO_ACCESS_KEY} 
       minio.secretKey: ${MINIO_SECRET_KEY}
 
+  object-store-ui:
+    image: aafcbicoe/object-store-ui:0.1.dev
+    environment:
+      API_ADDRESS: object-store-api:8080
+    ports:
+      - "2015:8080"
+
   seqdb-db:
     image: "postgres:9.6"
     environment:
@@ -55,3 +62,12 @@ services:
       spring.liquibase.password: ${LIQUIBASE_PASSWORD}
       import-sample-accounts: "true"
 
+  seqdb-ui:
+    image: aafcbicoe/seqdb-ui:0.1.dev
+    environment:
+      API_ADDRESS: seqdb-api:8080
+    volumes:
+      # Override the proxy config to auto-authenticate as Admin for demo purposes:
+      - "./config/seqdb-demo.Caddyfile:/etc/Caddyfile"
+    ports:
+      - "2016:8080"
