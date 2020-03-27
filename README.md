@@ -54,7 +54,7 @@ BREAK
 11:30am - 12:30pm
 * SWE - Fredrik’s SeqDB Deck
 * James/ Falko? The landscape and other projects - ELVIS, DiSSCo, ALA, GBIF, etc…
-* Reach out to Matt for a presentation???
+* Matt from UK will present (10-15mins)
 * Satpal - AAFC DINA-web. Github changes
 
 12:30pm
