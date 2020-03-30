@@ -19,7 +19,7 @@ Tuesday March 31 2020
 * DINA UI: https://github.com/AAFC-BICoE/dina-ui/tree/dev
   * project technologies and structure
 
-## Get the AAFC development environment working for Berlin
+## Get the AAFC modules running on participants environment:
 
 * Clone https://github.com/DINA-Web/dina-workshop-2020 repository
 * Try DINA workshop 2020 [docker-compose](https://github.com/DINA-Web/dina-workshop-2020/tree/master/day-2/aafc-setup)
