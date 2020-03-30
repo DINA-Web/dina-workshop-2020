@@ -21,7 +21,7 @@ Tuesday March 31 2020
 
 ## Get the AAFC development environment working for Berlin
 
-* Workshop docker-compose: 
+* Try DINA workshop 2020 [docker-compose](https://github.com/DINA-Web/dina-workshop-2020/tree/master/day-2/aafc-setup)
 
 ## AAFC UI
 
