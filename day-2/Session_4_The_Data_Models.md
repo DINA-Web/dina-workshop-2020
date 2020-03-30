@@ -11,3 +11,4 @@ Tuesday March 31 2020
 * Collection Management terms [glossary](https://github.com/DINA-Web/collection-specs/blob/master/documentation/glossary.md)
 * Requirements/Questions are in GitHub [issues](https://github.com/DINA-Web/collection-specs/issues?q=is%3Aissue)
 * Current Collection Data Model [diagram](https://github.com/DINA-Web/collection-specs/blob/master/documentation/collectionDataModel.png)
+* Support for mineralogy
