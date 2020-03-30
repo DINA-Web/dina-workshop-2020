@@ -17,7 +17,7 @@ Primary system: **Zoom**, backup **Adobe Connect**.
 *Time is in Eastern Daylight Time (EDT)*
 
 ### Day 1 - Monday March 30
-Session 1- Welcome + Show and Tell
+**Session 1- Welcome + Show and Tell**
 Session Moderators: Satpal + Falko
 Session note taker: 
 
@@ -35,6 +35,7 @@ developers share software stacks/skills sets
 * Satpal - AAFC DEMO’s / Slides
   * AAFC: Multimedia and Document Store Module
   * AAFC: Sequence Module : WGS Workflow
+
 10:00am - 10:15am
 
 BREAK
@@ -63,11 +64,13 @@ BREAK
 END
 
 ### Day 2 - Tuesday March 31
-Session 2 - The DINA-AAFC Design Process
+**Session 2 - The DINA-AAFC Design Process**
+
 Session Moderators: Satpal
 Session note taker:
 
-Session3 - The DINA-AAFC Technical Architecture
+**Session3 - The DINA-AAFC Technical Architecture**
+
 Session Moderators: Christian + Glen + Falko
 Session note taker: 
 
@@ -103,7 +106,8 @@ Christian - AAFC gives guided tour through code bases (continued)
 
 BREAK
 
-Session 4 The Data Models:
+**Session 4 The Data Models**
+
 Session Moderators: Christian + Falko
 Session note taker: 
 
@@ -118,14 +122,16 @@ Christian - Data Models
 ### Day 3 - Wednesday April 1
 
 8:30am - 9:00am
+
 * Christian - To Follow up Technical question from previous day 
 * General questions from the group
 
-Session 5 - The Migration Path(s)
+**Session 5 - The Migration Path(s)**
 Session Moderators: David 
 Session note taker: 
 
 9:00am - 10:00am
+
 David - AAFC Migration path(s) 
 * Data Quality considerations
 * Specify 6, 7
@@ -141,7 +147,8 @@ BREAK
 
 10:15am - 10:15am
 
-Session 6 - The Roadmap
+**Session 6 - The Roadmap**
+
 Session Moderators: Satpal + Falko + Laith + James
 Session note taker:
 
@@ -167,7 +174,8 @@ Roadmap continued….
 
 ### Day 4 - Thursday April 2
 
-Session 7 - How to work collaboratively 
+**Session 7 - How to work collaboratively**
+
 Session Moderators: Satpal + Falko + Glen + Jens
 Session note taker: 
 
