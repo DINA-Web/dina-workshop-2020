@@ -43,5 +43,5 @@ Tuesday March 31 2020
 * Discussion
   * UUID as module identifier - [description](https://github.com/DINA-Web/guidelines/issues/45)
   * Soft delete - [description](https://github.com/DINA-Web/guidelines/issues/46)
+  * Soft-foreign key/Differed referential integrity checks - [description](https://github.com/DINA-Web/guidelines/issues/48)
   * Global search index
-  * Differed referential integrity checks
