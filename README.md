@@ -118,6 +118,8 @@ Session note taker:
 Christian - Data Models
 * Object Store data model
 * Collection Management data model 
+* Ensuring user stories like Mineralogy fit in
+ 
 
 12:30pm END
 
