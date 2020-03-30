@@ -5,8 +5,8 @@ Tuesday March 31 2020
 ## Lessons learned from previous DINA years
 
 * Separate modules vs Collaborative development on the same module
-* Importance of API definition and process around it
-* Collaborative effort has an overhead (time/cost/complexity/communcations). The gains should be worth it but there is a price to pay.
+* Importance of API definition and process around it (TC Vote, approval process)
+* Collaborative effort has an overhead (time/cost/complexity/communications). The gains should be worth it but there is a price to pay.
 
 ## AAFC guided tour through code bases
 
