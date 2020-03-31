@@ -36,9 +36,7 @@ developers share software stacks/skills sets
   * AAFC: Multimedia and Document Store Module
   * AAFC: Sequence Module : WGS Workflow
 
-
 10:00am - 10:15am
-
 
 BREAK
 
@@ -127,7 +125,8 @@ Christian - Data Models
 
 8:30am - 9:00am
 
-* Christian - To Follow up Technical question from previous day 
+* Christian - To Follow up Technical question from previous day
+  * Open API  http://spec.openapis.org/oas/v3.0.3
 * General questions from the group
 
 **Session 5 - The Migration Path(s)**
