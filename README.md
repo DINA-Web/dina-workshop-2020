@@ -127,6 +127,7 @@ Christian - Data Models
 
 * Christian - To Follow up Technical question from previous day
   * Open API  http://spec.openapis.org/oas/v3.0.3
+  * New repo dina-model-concepts: https://github.com/DINA-Web/dina-model-concepts
 * General questions from the group
 
 **Session 5 - The Migration Path(s)**
