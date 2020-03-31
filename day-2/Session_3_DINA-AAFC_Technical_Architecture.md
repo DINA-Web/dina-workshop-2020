@@ -13,7 +13,7 @@ Tuesday March 31 2020
 * Concepts
   * Microservices
   * Unified interface
-* Object-Store API: https://github.com/AAFC-BICoE/object-store-api
+* Object-Store API: https://github.com/AAFC-BICoE/object-store-api/tree/dev
 * SeqDB API : https://github.com/AAFC-BICoE/seqdb-api
   * overlap with current SeqDB app and inherited complexity
 * DINA UI: https://github.com/AAFC-BICoE/dina-ui/tree/dev
