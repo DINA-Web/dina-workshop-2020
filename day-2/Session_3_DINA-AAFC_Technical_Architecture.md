@@ -11,6 +11,7 @@ Tuesday March 31 2020
 ## AAFC guided tour through code bases
 
 * Concepts
+  * Specs vs implementation
   * Microservices
   * Unified interface
 * Object-Store API: https://github.com/AAFC-BICoE/object-store-api/tree/dev
